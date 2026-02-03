@@ -1,0 +1,12 @@
+D:\login\Auth\e-commerce\Core\Domin\bin\Debug\net8.0\Domin.deps.json
+D:\login\Auth\e-commerce\Core\Domin\bin\Debug\net8.0\Domin.dll
+D:\login\Auth\e-commerce\Core\Domin\bin\Debug\net8.0\Domin.pdb
+D:\login\Auth\e-commerce\Core\Domin\obj\Debug\net8.0\Domin.csproj.AssemblyReference.cache
+D:\login\Auth\e-commerce\Core\Domin\obj\Debug\net8.0\Domin.GeneratedMSBuildEditorConfig.editorconfig
+D:\login\Auth\e-commerce\Core\Domin\obj\Debug\net8.0\Domin.AssemblyInfoInputs.cache
+D:\login\Auth\e-commerce\Core\Domin\obj\Debug\net8.0\Domin.AssemblyInfo.cs
+D:\login\Auth\e-commerce\Core\Domin\obj\Debug\net8.0\Domin.csproj.CoreCompileInputs.cache
+D:\login\Auth\e-commerce\Core\Domin\obj\Debug\net8.0\Domin.dll
+D:\login\Auth\e-commerce\Core\Domin\obj\Debug\net8.0\refint\Domin.dll
+D:\login\Auth\e-commerce\Core\Domin\obj\Debug\net8.0\Domin.pdb
+D:\login\Auth\e-commerce\Core\Domin\obj\Debug\net8.0\ref\Domin.dll

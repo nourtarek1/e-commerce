@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Classic White T-Shirt",
+    "description": "A timeless white t-shirt made from 100% organic cotton. Soft, breathable, and perfect for everyday wear.",
+    "price": 250,
+    "imageUrl": "Images/products/leather_jacket.png",
+    "productTypeId": 1,
+    "categoryId": 1,
+    "variants": [
+      {
+        "color": "Black",
+        "size": "M",
+        "stockQuantity": 10
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stockQuantity": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stockQuantity": 7
+      }
+    ]
+  },
+  {
+    "name": "Slim Fit Jeans",
+    "description": "Blue denim jeans with a slim cut and stretch fabric for maximum comfort and style.",
+    "price": 450,
+    "imageUrl": "Images/products/leather_jacket.png",
+    "productTypeId": 2,
+    "categoryId": 2,
+    "variants": [
+      {
+        "color": "Black",
+        "size": "M",
+        "stockQuantity": 10
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stockQuantity": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stockQuantity": 7
+      }
+    ]
+  },
+  {
+    "name": "Hooded Sweatshirt",
+    "description": "Warm and cozy hoodie made from soft fleece, ideal for cold weather or casual outings.",
+    "price": 300,
+    "imageUrl": "Images/products/leather_jacket.png",
+    "productTypeId": 3,
+    "categoryId": 1,
+    "variants": [
+      {
+        "color": "Black",
+        "size": "M",
+        "stockQuantity": 10
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stockQuantity": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stockQuantity": 7
+      }
+    ]
+  },
+  {
+    "name": "Summer Polo Shirt",
+    "description": "A stylish polo shirt designed for warm weather. Lightweight and breathable fabric.",
+    "price": 320,
+    "imageUrl": "Images/products/leather_jacket.png",
+    "productTypeId": 1,
+    "categoryId": 1,
+    "variants": [
+      {
+        "color": "Black",
+        "size": "M",
+        "stockQuantity": 10
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stockQuantity": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stockQuantity": 7
+      }
+    ]
+  },
+  {
+    "name": "Black Leather Jacket",
+    "description": "Premium black leather jacket with modern fit. Adds instant edge to any outfit.",
+    "price": 900,
+    "imageUrl": "Images/products/leather_jacket.png",
+    "productTypeId": 4,
+    "categoryId": 3,
+    "variants": [
+      {
+        "color": "Black",
+        "size": "M",
+        "stockQuantity": 10
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stockQuantity": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stockQuantity": 7
+      }
+    ]
+  }
+]
